@@ -13,7 +13,7 @@
 | Entity Culling | [tr7zw](https://modrinth.com/user/tr7zw) |
 | MoreCulling | [FX](https://modrinth.com/user/FX) |
 | Dynamic FPS | [juliand665](https://modrinth.com/user/juliand665) |
-| Noisium | [Steveplays28](https://modrinth.com/user/Steveplays28) |
+| Noisium | [Steveplays28](https://www.curseforge.com/members/steveplays28/) |
 | C2ME | [ishland](https://modrinth.com/user/ishland) |
 | Bobby | [Johni0702](https://modrinth.com/user/Johni0702) |
 | BadOptimizations | [Thosea](https://modrinth.com/user/Thosea) |
