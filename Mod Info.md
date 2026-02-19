@@ -1,29 +1,31 @@
 📦 Cyronicalist’s Vanilla Overhaul – Mod List
 🚀 Performance
 
-* BadOptimizations
-* Bobby
-* C2ME
-* Cull Leaves
-* Dynamic FPS
-* Entity Culling
-* Entity View Distance
-* FerriteCore
-* ImmediatelyFast
-* Lithium
-* MoreCulling
-* Noisium
-* Sodium
-* Sodium Extra
+## 🚀 Performance
 
-💡 Visual Enhancements
+| Mod | Author |
+|------|--------|
+| Sodium | [CaffeineMC](https://modrinth.com/organization/caffeinemc) |
+| Sodium Extra | [FlashyReese](https://modrinth.com/user/FlashyReese) |
+| Lithium | [CaffeineMC](https://modrinth.com/organization/caffeinemc) |
+| FerriteCore | [malte0811](https://modrinth.com/user/malte0811) |
+| ImmediatelyFast | [RaphiMC](https://modrinth.com/user/RaphiMC) |
+| Entity Culling | [tr7zw](https://modrinth.com/user/tr7zw) |
+| MoreCulling | [FX_PR0CESS](https://modrinth.com/user/FX_PR0CESS) |
+| Dynamic FPS | [juliand665](https://modrinth.com/user/juliand665) |
+| Noisium | [Steveplays28](https://modrinth.com/user/Steveplays28) |
+| C2ME | [ishland](https://modrinth.com/user/ishland) |
+| Bobby | [Johni0702](https://modrinth.com/user/Johni0702) |
+| BadOptimizations | [Thosea](https://modrinth.com/user/Thosea) |
+
+----
 
 ## 💡 Visual Enhancements
 
 | Mod | Author |
 |------|--------|
 | Iris | [coderbot](https://modrinth.com/user/coderbot) |
-| Continuity | [PepperCode1](https://modrinth.com/user/PepperCode1) |
+| Continuity | [Pepper_Bell](https://modrinth.com/user/Pepper_Bell) |
 | Entity Model Features | [Traben](https://modrinth.com/user/Traben) |
 | Entity Texture Features | [Traben](https://modrinth.com/user/Traben) |
 | LambDynamicLights | [LambdAurora](https://modrinth.com/user/LambdAurora) |
