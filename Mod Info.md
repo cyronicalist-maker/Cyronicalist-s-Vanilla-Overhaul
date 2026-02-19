@@ -35,8 +35,8 @@
 
 ## 🎮 Quality of Life
 
-| Mod | Creator | Modrinth Profile |
-|------|----------|------------------|
+| Mod | Creator |
+|------|----------|
 | Better Advancements | [way2muchnoise](https://modrinth.com/user/way2muchnoise) |
 | Better F3 | [cominixo](https://modrinth.com/user/cominixo) |
 | Better Stats | [TheCSDev](https://modrinth.com/user/TheCSDev) |
