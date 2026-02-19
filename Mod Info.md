@@ -35,29 +35,34 @@
 
 🎮 Quality of Life
 
-* Better Advancements
-* Better F3
-* Better Stats
-* Centered Crosshair
-* Chat Animation
-* Clumps
-* Controlling
-* Cut Through
-* Delete Worlds To Trash
-* Detail Armor Bar
-* Held Item Tooltips
-* Inventory Profiles Next
-* Mouse Tweaks
-* Nether Coord
-* Notes
-* PaperDoll
-* ReplayMod
-* Searchables
-* ShulkerBoxTooltip
-* Smart Block Placement
-* Status Effect Bars
-* Xaero’s Minimap
-* Xaero’s World Map
+## 🎮 Quality of Life Mods (Alphabetical)
+
+| Mod | Creator | Modrinth Profile |
+|------|----------|------------------|
+| Better Advancements | way2muchnoise | https://modrinth.com/user/way2muchnoise |
+| Better F3 | cominixo | https://modrinth.com/user/cominixo |
+| Better Stats | TheCSDev | https://modrinth.com/user/TheCSDev |
+| Centered Crosshair | 0x3C50 | https://modrinth.com/user/0x3C50 |
+| Chat Animation | terry | https://modrinth.com/user/terry |
+| Clumps | Jaredlll08 | https://modrinth.com/user/Jaredlll08 |
+| Controlling | Jaredlll08 | https://modrinth.com/user/Jaredlll08 |
+| Cut Through | Fuzs | https://modrinth.com/user/Fuzs |
+| Delete Worlds To Trash | Fuzs | https://modrinth.com/user/Fuzs |
+| Detail Armor Bar | RedLime | https://modrinth.com/user/RedLime |
+| Held Item Tooltips | Fuzs | https://modrinth.com/user/Fuzs |
+| Inventory Profiles Next | blackd | https://modrinth.com/user/blackd |
+| Mouse Tweaks | YaLTeR | https://modrinth.com/user/YaLTeR |
+| Nether Coord | CorgiTaco | https://modrinth.com/user/CorgiTaco |
+| Notes | IMB11 | https://modrinth.com/user/IMB11 |
+| PaperDoll | tr7zw | https://modrinth.com/user/tr7zw |
+| ReplayMod | ReplayMod Team | https://modrinth.com/organization/replaymod |
+| Searchables | shedaniel | https://modrinth.com/user/shedaniel |
+| ShulkerBoxTooltip | MisterPeModder | https://modrinth.com/user/MisterPeModder |
+| Smart Block Placement | Fuzs | https://modrinth.com/user/Fuzs |
+| Status Effect Bars | IMB11 | https://modrinth.com/user/IMB11 |
+| Xaero’s Minimap | xaero96 | https://modrinth.com/user/xaero96 |
+| Xaero’s World Map | xaero96 | https://modrinth.com/user/xaero96 |
+
 
 🌱 Vanilla Tweaks / Small Improvements
 
