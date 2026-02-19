@@ -11,7 +11,7 @@
 | FerriteCore | [malte0811](https://modrinth.com/user/malte0811) |
 | ImmediatelyFast | [RaphiMC](https://modrinth.com/user/RaphiMC) |
 | Entity Culling | [tr7zw](https://modrinth.com/user/tr7zw) |
-| MoreCulling | [FX_PR0CESS](https://modrinth.com/user/FX_PR0CESS) |
+| MoreCulling | [FX](https://modrinth.com/user/FX) |
 | Dynamic FPS | [juliand665](https://modrinth.com/user/juliand665) |
 | Noisium | [Steveplays28](https://modrinth.com/user/Steveplays28) |
 | C2ME | [ishland](https://modrinth.com/user/ishland) |
