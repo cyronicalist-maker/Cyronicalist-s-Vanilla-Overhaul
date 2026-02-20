@@ -5,18 +5,18 @@
 
 | Mod | Author |
 |------|--------|
-| Sodium | [CaffeineMC](https://modrinth.com/organization/caffeinemc){:target="_blank"} |
-| Sodium Extra | [FlashyReese](https://modrinth.com/user/FlashyReese){:target="_blank"} |
-| Lithium | [CaffeineMC](https://modrinth.com/organization/caffeinemc){:target="_blank"} |
-| FerriteCore | [malte0811](https://modrinth.com/user/malte0811){:target="_blank"} |
-| ImmediatelyFast | [RaphiMC](https://modrinth.com/user/RaphiMC){:target="_blank"} |
-| Entity Culling | [tr7zw](https://modrinth.com/user/tr7zw){:target="_blank"} |
-| MoreCulling | [FX](https://modrinth.com/user/FX){:target="_blank"} |
-| Dynamic FPS | [juliand665](https://modrinth.com/user/juliand665){:target="_blank"} |
-| NoisiumForked | [Coredex](https://modrinth.com/user/Coredex){:target="_blank"} |
-| C2ME | [ishland](https://modrinth.com/user/ishland){:target="_blank"} |
-| Bobby | [Johni0702](https://modrinth.com/user/Johni0702){:target="_blank"} |
-| BadOptimizations | [Thosea](https://modrinth.com/user/Thosea){:target="_blank"} |
+| Sodium | [CaffeineMC](https://modrinth.com/organization/caffeinemc) |
+| Sodium Extra | [FlashyReese](https://modrinth.com/user/FlashyReese) |
+| Lithium | [CaffeineMC](https://modrinth.com/organization/caffeinemc) |
+| FerriteCore | [malte0811](https://modrinth.com/user/malte0811) |
+| ImmediatelyFast | [RaphiMC](https://modrinth.com/user/RaphiMC) |
+| Entity Culling | [tr7zw](https://modrinth.com/user/tr7zw) |
+| MoreCulling | [FX](https://modrinth.com/user/FX) |
+| Dynamic FPS | [juliand665](https://modrinth.com/user/juliand665) |
+| NoisiumForked | [Coredex](https://modrinth.com/user/Coredex) |
+| C2ME | [ishland](https://modrinth.com/user/ishland) |
+| Bobby | [Johni0702](https://modrinth.com/user/Johni0702) |
+| BadOptimizations | [Thosea](https://modrinth.com/user/Thosea) |
 
 ----
 
@@ -91,16 +91,18 @@
 
 🧩 Libraries (Required Dependencies)
 
-* Architectury
-* Collective
-* Fabric API
-* Fabric Language Kotlin
-* Forge Config API Port
-* Fzzy Config
-* LibIPN
-* LibJF
-* Particle Core
-* PneumonoCore
-* PuzzlesLib
-* TCDCommons
-* Yet Another Config Lib (YACL)
+| Mod Name | Author |
+|----------|--------|
+| Architectury | [shedaniel](https://modrinth.com/user/shedaniel) |
+| Collective | [Serilum](https://modrinth.com/user/Serilum) |
+| Fabric API | [FabricMC](https://modrinth.com/organization/fabricmc) |
+| Fabric Language Kotlin | [FabricMC](https://modrinth.com/organization/fabricmc) |
+| Forge Config API Port | [Fuzs](https://modrinth.com/user/Fuzs) |
+| Fzzy Config | [Fzzyhmstrs](https://modrinth.com/user/Fzzyhmstrs) |
+| LibIPN | [blackd](https://modrinth.com/user/blackd) |
+| LibJF | [johni0702](https://modrinth.com/user/johni0702) |
+| Particle Core | [Tom5454](https://modrinth.com/user/Tom5454) |
+| PneumonoCore | [Pneumono](https://modrinth.com/user/Pneumono) |
+| PuzzlesLib | [Fuzs](https://modrinth.com/user/Fuzs) |
+| TCDCommons | [TheCSDev](https://modrinth.com/user/TheCSDev) |
+| Yet Another Config Lib (YACL) | [isXander](https://modrinth.com/user/isXander) |
