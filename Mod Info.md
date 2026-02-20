@@ -5,18 +5,18 @@
 
 | Mod | Author |
 |------|--------|
-| Sodium | [CaffeineMC](https://modrinth.com/organization/caffeinemc){target="_blank"} |
-| Sodium Extra | [FlashyReese](https://modrinth.com/user/FlashyReese){target="_blank"} |
-| Lithium | [CaffeineMC](https://modrinth.com/organization/caffeinemc){target="_blank"} |
-| FerriteCore | [malte0811](https://modrinth.com/user/malte0811){target="_blank"} |
-| ImmediatelyFast | [RaphiMC](https://modrinth.com/user/RaphiMC){target="_blank"} |
-| Entity Culling | [tr7zw](https://modrinth.com/user/tr7zw){target="_blank"} |
-| MoreCulling | [FX](https://modrinth.com/user/FX){target="_blank"} |
-| Dynamic FPS | [juliand665](https://modrinth.com/user/juliand665){target="_blank"} |
-| NoisiumForked | [Coredex](https://modrinth.com/user/Coredex) |
-| C2ME | [ishland](https://modrinth.com/user/ishland){target="_blank"} |
-| Bobby | [Johni0702](https://modrinth.com/user/Johni0702){target="_blank"} |
-| BadOptimizations | [Thosea](https://modrinth.com/user/Thosea){target="_blank"} |
+| Sodium | [CaffeineMC](https://modrinth.com/organization/caffeinemc){:target="_blank"} |
+| Sodium Extra | [FlashyReese](https://modrinth.com/user/FlashyReese){:target="_blank"} |
+| Lithium | [CaffeineMC](https://modrinth.com/organization/caffeinemc){:target="_blank"} |
+| FerriteCore | [malte0811](https://modrinth.com/user/malte0811){:target="_blank"} |
+| ImmediatelyFast | [RaphiMC](https://modrinth.com/user/RaphiMC){:target="_blank"} |
+| Entity Culling | [tr7zw](https://modrinth.com/user/tr7zw){:target="_blank"} |
+| MoreCulling | [FX](https://modrinth.com/user/FX){:target="_blank"} |
+| Dynamic FPS | [juliand665](https://modrinth.com/user/juliand665){:target="_blank"} |
+| NoisiumForked | [Coredex](https://modrinth.com/user/Coredex){:target="_blank"} |
+| C2ME | [ishland](https://modrinth.com/user/ishland){:target="_blank"} |
+| Bobby | [Johni0702](https://modrinth.com/user/Johni0702){:target="_blank"} |
+| BadOptimizations | [Thosea](https://modrinth.com/user/Thosea){:target="_blank"} |
 
 ----
 
