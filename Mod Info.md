@@ -89,20 +89,30 @@
 * Elytra Trims
 * Smooth GUI
 
-🧩 Libraries (Required Dependencies)
+## 📦 Dependencies & Libraries
 
-| Mod Name | Author |
-|----------|--------|
-| Architectury | [shedaniel](https://modrinth.com/user/shedaniel) |
-| Collective | [Serilum](https://modrinth.com/user/Serilum) |
-| Fabric API | [FabricMC](https://modrinth.com/organization/fabricmc) |
-| Fabric Language Kotlin | [FabricMC](https://modrinth.com/organization/fabricmc) |
-| Forge Config API Port | [Fuzs](https://modrinth.com/user/Fuzs) |
-| Fzzy Config | [Fzzyhmstrs](https://modrinth.com/user/Fzzyhmstrs) |
-| LibIPN | [blackd](https://modrinth.com/user/blackd) |
-| LibJF | [johni0702](https://modrinth.com/user/johni0702) |
-| Particle Core | [Tom5454](https://modrinth.com/user/Tom5454) |
-| PneumonoCore | [Pneumono](https://modrinth.com/user/Pneumono) |
-| PuzzlesLib | [Fuzs](https://modrinth.com/user/Fuzs) |
-| TCDCommons | [TheCSDev](https://modrinth.com/user/TheCSDev) |
-| Yet Another Config Lib (YACL) | [isXander](https://modrinth.com/user/isXander) |
+This modpack includes the following required libraries and core dependencies.  
+All credit goes to the respective developers for their incredible work.
+
+| Mod | Author | Project Page |
+|-----|--------|--------------|
+| [Architectury API](https://modrinth.com/mod/architectury-api) | [shedaniel](https://modrinth.com/user/shedaniel) | Modrinth |
+| [Collective](https://modrinth.com/mod/collective) | [Serilum](https://modrinth.com/user/Serilum) | Modrinth |
+| [Fabric API](https://modrinth.com/mod/fabric-api) | [FabricMC](https://modrinth.com/organization/fabricmc) | Modrinth |
+| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | [FabricMC](https://modrinth.com/organization/fabricmc) | Modrinth |
+| [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) | [Fuzs](https://modrinth.com/user/Fuzs) | Modrinth |
+| [Fzzy Config](https://modrinth.com/mod/fzzy-config) | [Fzzyhmstrs](https://modrinth.com/user/Fzzyhmstrs) | Modrinth |
+| [LibIPN](https://modrinth.com/mod/libipn) | [blackd](https://modrinth.com/user/blackd) | Modrinth |
+| [LibJF](https://modrinth.com/mod/libjf) | [johni0702](https://modrinth.com/user/johni0702) | Modrinth |
+| [Particle Core](https://modrinth.com/mod/particle-core) | [Tom5454](https://modrinth.com/user/Tom5454) | Modrinth |
+| [PneumonoCore](https://modrinth.com/mod/pneumonocore) | [Pneumono](https://modrinth.com/user/Pneumono) | Modrinth |
+| [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | [Fuzs](https://modrinth.com/user/Fuzs) | Modrinth |
+| [TCDCommons](https://modrinth.com/mod/tcdcommons) | [TheCSDev](https://modrinth.com/user/TheCSDev) | Modrinth |
+| [Yet Another Config Lib (YACL)](https://modrinth.com/mod/yacl) | [isXander](https://modrinth.com/user/isXander) | Modrinth |
+
+---
+
+### ❤️ Credits
+
+Huge appreciation to all mod developers whose libraries make this modpack possible.  
+Please consider supporting them by following their projects on Modrinth.
